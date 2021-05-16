@@ -1,0 +1,10 @@
+.piano {
+    display: flex;
+    width: 1000px;
+    height:  600px;
+    border: 4px solid black;
+}
+  
+  .piano.white-key {
+    border: 3px solid black;
+  }
